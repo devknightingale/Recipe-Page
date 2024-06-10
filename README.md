@@ -5,7 +5,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -19,12 +18,11 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ### Screenshot
 
 ![](./assets/images/FullSize_Screenshot.PNG)
-![](./assets/images/Mobile_Screenshot.PNG)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [FrontEnd Mentor Solution](https://www.frontendmentor.io/solutions/responsive-recipe-page-design-5criir2k22)
+- Live Site URL: [Live Site](https://devknightingale.github.io/Recipe-Page/)
 
 ## My process
 
@@ -45,4 +43,4 @@ I definitely want to spend more time with media queries and really get a better 
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/devknightingale)
+- Frontend Mentor - [@devknightingale](https://www.frontendmentor.io/profile/devknightingale)
