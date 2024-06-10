@@ -44,7 +44,7 @@ body {
 }
 .recipe-card { 
     background-color: var(--white); 
-    width: 40%; 
+    width: 50%; 
     margin: 7% auto; 
     border-radius: 25px; 
 }
@@ -174,9 +174,7 @@ span[class="bold"] {
     color: var(--darkgrey);
 
 }
-.nutrition-table { 
-    width: 100%; 
-}
+
 
 .nutrition-container { 
     display: flex; 
@@ -194,8 +192,14 @@ span[class="bold"] {
     background-color: var(--lightgrey);
     width: 100%; 
     height: 1px; 
-    margin: 0 -2%; 
+    margin-left: -2%; 
+    margin-right: -20px; 
 }
 .amount:last-of-type { 
     padding-bottom: 5%; 
+}
+
+.amount p { 
+    color: var(--nutmeg); 
+    font-weight: 700; 
 }
